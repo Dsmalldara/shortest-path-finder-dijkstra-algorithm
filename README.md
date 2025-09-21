@@ -61,6 +61,8 @@ This interactive web application demonstrates the **practical implementation of 
 
 ## Network Topology  
 
+**Note:** The distances listed are **simulated values** and do not represent the exact real-world distances between these cities. They are used for demonstration purposes only.  
+
 ### Northern Backbone  
 - Kaduna ↔ Kano (160 km)  
 
